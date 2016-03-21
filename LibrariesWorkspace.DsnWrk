@@ -3,6 +3,10 @@ Version=1.0
 [Project1]
 ProjectPath=AltiumLibraries.PrjPCB
 [Project2]
-ProjectPath=SnippetsSources\MCU\SnippetsMCU.PrjPCB
+ProjectPath=Snippets\Interfaces\SnippetsInterfaces.PrjPCB
 [Project3]
-ProjectPath=SnippetsSources\Interfaces\SnippetsInterfaces.PrjPCB
+ProjectPath=Snippets\MCU\SnippetsMCU.PrjPCB
+[Project4]
+ProjectPath=Snippets\Radio\SnippetsRadio.PrjPCB
+[Project5]
+ProjectPath=Snippets\Power\SnippetsPower.PrjPCB
