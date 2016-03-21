@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=AltiumLibraries.PrjPCB
+[Project2]
+ProjectPath=SnippetsSources\MCU\SnippetsMCU.PrjPCB
+[Project3]
+ProjectPath=SnippetsSources\Interfaces\SnippetsInterfaces.PrjPCB
