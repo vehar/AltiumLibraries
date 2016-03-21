@@ -55,6 +55,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ANQWWMLD
 
+[Document2]
+DocumentPath=DCDC_ST1S10_3V3_small.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BNUKKPGH
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
