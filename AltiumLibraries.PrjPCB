@@ -260,23 +260,6 @@ GenerateClassCluster=0
 DocumentUniqueId=KECDILAP
 
 [Document14]
-DocumentPath=EMDC_LEDs.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PXGTBTLS
-
-[Document15]
 DocumentPath=EMDC_Diodes.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -293,7 +276,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TGMRWRCK
 
-[Document16]
+[Document15]
 DocumentPath=EMDC_Crystal.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,6 +292,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JMBPEFMU
+
+[Document16]
+DocumentPath=EMDC_LEDs.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PXGTBTLS
 
 [Document17]
 DocumentPath=EMDC_ICs.SchLib
