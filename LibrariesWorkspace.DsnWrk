@@ -10,3 +10,5 @@ ProjectPath=Snippets\MCU\SnippetsMCU.PrjPCB
 ProjectPath=Snippets\Radio\SnippetsRadio.PrjPCB
 [Project5]
 ProjectPath=Snippets\Power\SnippetsPower.PrjPCB
+[Project6]
+ProjectPath=Fabrication\Fabrication.PrjPcb
