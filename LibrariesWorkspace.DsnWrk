@@ -14,3 +14,5 @@ ProjectPath=Snippets\Power\SnippetsPower.PrjPCB
 ProjectPath=Fabrication\Fabrication.PrjPcb
 [Project7]
 ProjectPath=Snippets\LED\SnippetsLED.PrjPCB
+[Project8]
+ProjectPath=Snippets\Analog\SnippetsAnalog.PrjPCB
