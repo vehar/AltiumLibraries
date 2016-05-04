@@ -1,5 +1,5 @@
 [LayerColors]
-TopLayer=005426D6
+TopLayer=00481DC3
 MidLayer1=00008EBC
 MidLayer2=00FADB70
 MidLayer3=0066CC00
@@ -31,7 +31,7 @@ MidLayer28=00C0C0C0
 MidLayer29=00000080
 MidLayer30=00008000
 BottomLayer=00DDA419
-TopOverlay=0000FFFF
+TopOverlay=0085FFEC
 BottomOverlay=00008080
 TopPaste=00808080
 BottomPaste=00000080
@@ -82,10 +82,12 @@ GridColor10=00908D91
 PadHoleLayer=00909100
 ViaHoleLayer=00006281
 [LayerColors_V7]
-Name1=Bottom Layer
-Value1=00DDA419
-Name2=Top Layer
-Value2=005426D6
+Name1=Top Layer
+Value1=00481DC3
+Name2=Bottom Layer
+Value2=00DDA419
+Name3=Top Overlay
+Value3=0085FFEC
 [WorkspaceColors]
 HighlightColor=00FFFFFF
 BoardLineColor=00000000
