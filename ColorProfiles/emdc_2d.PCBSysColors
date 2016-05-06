@@ -1,12 +1,12 @@
 [LayerColors]
 TopLayer=00481DC3
-MidLayer1=00008EBC
-MidLayer2=00FADB70
-MidLayer3=0066CC00
-MidLayer4=00FF6699
-MidLayer5=00FFFF00
+MidLayer1=004FD4FF
+MidLayer2=009F5309
+MidLayer3=0074AD3D
+MidLayer4=00FF7FA9
+MidLayer5=00D0CE00
 MidLayer6=00800080
-MidLayer7=00FF00FF
+MidLayer7=00AD00D8
 MidLayer8=00008080
 MidLayer9=0000FFFF
 MidLayer10=00808080
@@ -84,10 +84,22 @@ ViaHoleLayer=00006281
 [LayerColors_V7]
 Name1=Top Layer
 Value1=00481DC3
-Name2=Bottom Layer
-Value2=00DDA419
-Name3=Top Overlay
-Value3=0085FFEC
+Name2=Mid Layer 1
+Value2=004FD4FF
+Name3=Mid Layer 2
+Value3=009F5309
+Name4=Mid Layer 3
+Value4=0074AD3D
+Name5=Mid Layer 4
+Value5=00FF7FA9
+Name6=Bottom Layer
+Value6=00DDA419
+Name7=Top Overlay
+Value7=0085FFEC
+Name8=Mid Layer 5
+Value8=00D0CE00
+Name9=Mid Layer 7
+Value9=00AD00D8
 [WorkspaceColors]
 HighlightColor=00FFFFFF
 BoardLineColor=00000000
