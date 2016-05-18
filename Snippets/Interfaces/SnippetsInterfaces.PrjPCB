@@ -39,7 +39,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=MAX3232_simple.SchDoc
+DocumentPath=CAN\CAN_ADM3053_Isolated_internal_DCDC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -53,10 +53,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CXVCVFTS
+DocumentUniqueId=
 
 [Document2]
-DocumentPath=MAX3232_with_rts_cts.SchDoc
+DocumentPath=Ethernet\Ethernet_LAN8720_simple.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -70,10 +70,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=OJMFHDWX
+DocumentUniqueId=
 
 [Document3]
-DocumentPath=CAN\CAN_Isol_with_internal_dcdc_adm3053.SchDoc
+DocumentPath=Ethernet\Ethernet_LAN8742A_simple.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -87,10 +87,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=CYFOQLGJ
+DocumentUniqueId=
 
 [Document4]
-DocumentPath=Ethernet\LAN8742A_simple.SchDoc
+DocumentPath=RS232\RS232_MAX3232_simple.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -104,10 +104,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RRWWCXRC
+DocumentUniqueId=
 
 [Document5]
-DocumentPath=Ethernet\LAN8720_simple.SchDoc
+DocumentPath=RS232\RS232_MAX3232_with_rts_cts.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -121,7 +121,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KFWLSJYK
+DocumentUniqueId=
 
 [Configuration1]
 Name=Default Configuration
